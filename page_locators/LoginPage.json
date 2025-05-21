@@ -1,0 +1,10 @@
+{
+    "userNameTextBox": "input[name='username']",
+    "passwordTextBox": "input[name='password']",
+    "loginButton": "button[type='submit']",
+    "nested": {
+        "userNameTextBox": "input[name='username']",
+        "passwordTextBox": "input[name='password']",
+        "loginButton": "button[type='submit']"
+    }
+}
